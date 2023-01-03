@@ -1,7 +1,7 @@
-<h1 align="center"> Fabrica de Memes </h1>
+<h1 align="center"> Relógio digital </h1>
 
 <p align="center">
-  <img alt="imagem do Projeto" src="./assets/picture/Tela inicial.png" width="100%">
+  <img alt="imagem do Projeto" src="./assets/image/Relogio.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
