@@ -12,7 +12,7 @@ const clock = setInterval(function time() {
   let clockMinutes = dateToday.getMinutes()
   let clockSeconds = dateToday.getSeconds()
 
-  // Para aparecer o 0 a frente
+  // Para aparecer o 0 na frente
   if (clockHours < 10) clockHours = '0' + clockHours
 
   if (clockMinutes < 10) clockMinutes = '0' + clockMinutes
